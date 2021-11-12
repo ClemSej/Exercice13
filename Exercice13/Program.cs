@@ -12,6 +12,7 @@ namespace Exercice13
         {
             //déclaration
             int entier;
+            //test refus
             //ajout inutile pour le test gitHub
             //boucle de demande de saisie
 
